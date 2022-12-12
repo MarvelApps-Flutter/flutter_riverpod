@@ -5,7 +5,7 @@ A flutter app build using the **RiverPod as a State-Management Solution**.
  # Demo
   <table>
   <tr>
-  <td><img src="https://github.com/MarvelApps-Flutter/flutter_riverpod/blob/master/working_demo/flutter_riverpod_movie.gif" height="480px"></td>
+  <td><img src="https://github.com/MarvelApps-Flutter/flutter_riverpod/blob/master/working_demo/riverpod.gif" height="480px"></td>
     </tr>
   </table>
 
