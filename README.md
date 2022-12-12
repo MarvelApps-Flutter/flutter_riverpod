@@ -1,4 +1,4 @@
-# flutter_riverpod
+# flutter Riverpod
 
 A flutter app build using the **RiverPod as a State-Management Solution**.
 
